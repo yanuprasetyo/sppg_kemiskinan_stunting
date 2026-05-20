@@ -1,5 +1,5 @@
 # 🍽️ Distribusi & Ketimpangan Dapur SPPG Program MBG
-## Analisis Komprehensif 514 Kabupaten/Kota Indonesia — Mei 2026
+## Analisis di 514 Kabupaten/Kota Indonesia — Mei 2026
 
 [![R Version](https://img.shields.io/badge/R-4.6.0+-blue?logo=r)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
