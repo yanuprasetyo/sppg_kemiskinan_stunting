@@ -14,11 +14,9 @@ Repositori ini berisi seluruh kode analisis statistik untuk kajian:
 
 > **"Distribusi dan Ketimpangan Dapur SPPG Program Makan Bergizi Gratis (MBG) terhadap Populasi, Sekolah, Kemiskinan, dan Stunting: Analisis Komprehensif 514 Kabupaten/Kota Indonesia"**
 
-Program Makan Bergizi Gratis (MBG) adalah program prioritas nasional yang menyediakan makanan bergizi bagi anak sekolah, balita, ibu hamil, dan ibu menyusui melalui jaringan **Satuan Pelayanan Pemenuhan Gizi (SPPG)**. Per 1 Mei 2026, telah beroperasi **27.427 dapur SPPG** di 514 kabupaten/kota seluruh Indonesia.
+Program Makan Bergizi Gratis (MBG) adalah program prioritas nasional yang menyediakan makanan bergizi bagi anak sekolah, balita, ibu hamil, dan ibu menyusui melalui jaringan **Satuan Pelayanan Pemenuhan Gizi (SPPG)**. Per 30 April 2026, telah beroperasi **27.427 dapur SPPG** di seluruh Indonesia.
 
 Kajian ini menjawab satu pertanyaan mendasar: **apakah 27.427 dapur SPPG tersebut terdistribusi secara adil kepada yang paling membutuhkan?**
-
-Jawabannya mengejutkan — dan kajian ini membuktikannya secara kuantitatif.
 
 ---
 
@@ -65,7 +63,7 @@ sppg_analysis/
 
 | Data | Sumber | Periode | Granularitas |
 |------|--------|---------|--------------|
-| Lokasi & jumlah SPPG | Badan Gizi Nasional (BGN) | 1 Mei 2026 | Kab/Kota |
+| Lokasi & jumlah SPPG | Badan Gizi Nasional (BGN) | 30 April 2026 | Kab/Kota |
 | Proyeksi populasi | BPS | 2026 | Kab/Kota |
 | Data kemiskinan | BPS | 2023–2024 | Kab/Kota |
 | Prevalensi stunting | Kemenkes – SSGI | 2022 | Kab/Kota |
@@ -323,17 +321,21 @@ Publikasikan CDI (gabungan kemiskinan + stunting + keterbatasan SPPG) semesteran
 
 ## 📖 Sitasi
 
-```bibtex
-@misc{sppg_analysis_2026,
-  author    = {[Nama Peneliti]},
-  title     = {Distribusi dan Ketimpangan Dapur SPPG Program MBG:
-               Analisis Komprehensif 514 Kabupaten/Kota Indonesia},
-  year      = {2026},
-  publisher = {GitHub},
-  url       = {https://github.com/[username]/sppg_analysis}
+@techreport{prasetyo2026sppg,
+  author      = {Prasetyo, Yanu Endar and
+                 Natih, Putu Geniki Lavinia and
+                 Aini, Yulinda Nurul and
+                 Bahagijo, Sugeng and
+                 Rossinda, Shabilla},
+  title       = {Ketimpangan Distribusi {SPPG} di {Indonesia}:
+                 Mengapa Wilayah dengan Kemiskinan dan Stunting
+                 Tinggi Justru Tertinggal?},
+  type        = {Policy Brief},
+  institution = {Pusat Riset Kependudukan,
+                 Badan Riset dan Inovasi Nasional ({BRIN})},
+  address     = {Jakarta},
+  year        = {2026}
 }
-```
-
 ---
 
 ## 📚 Referensi
