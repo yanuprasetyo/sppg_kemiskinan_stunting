@@ -322,9 +322,7 @@ Publikasikan CDI (gabungan kemiskinan + stunting + keterbatasan SPPG) semesteran
 ## 📖 Sitasi
 
 @techreport{prasetyo2026sppg,
-  author      = {Prasetyo, Yanu Endar and
-                 Natih, Putu Geniki Lavinia and
-                 Aini, Yulinda Nurul and
+  author      = {Prasetyo, Yanu Endar and, Yulinda Nurul and
                  Bahagijo, Sugeng and
                  Rossinda, Shabilla},
   title       = {Ketimpangan Distribusi {SPPG} di {Indonesia}:
